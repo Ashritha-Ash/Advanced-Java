@@ -25,3 +25,25 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20Li
 LinkedListElementPositions:[Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
 solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1ca.png)
+
+LinkedListIteratorExample:[Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())]
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cb.png)
+
+LinkedListOfferLast:[Write a Java program to insert the specified element at the end of a linked list.( using
+l_listobj.offerLast("Pink"))]
+solution->()
+
+
+
+LinkedListReverseIteration:[Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )]
+solution->()
+
+
+LinkedListSwapElements:[Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+Collections.swap(l_list, 0, 2))]
+solution->()
+
+
+solution->()
