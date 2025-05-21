@@ -38,10 +38,9 @@ LinkedListReverseIteration:[Write a Java program to display elements and their p
 l_listobj.get(p) )]
 solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cd.png)
 
-
 LinkedListSwapElements:[Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))]
-solution->()
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1ce.png)
 
 
 solution->()
