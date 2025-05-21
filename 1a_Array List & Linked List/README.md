@@ -9,3 +9,7 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20Li
 ColorRemove:[Write a java program for getting different colors through ArrayList interface and search whether
 the color "Red" is available or not]
 solution->(https://github.com/Ashritha-Ash/Advanced-Java/commit/60f754c755f5188ed90aa73f9afec925852e7aeb)
+
+ColorRemoveByIndex:[Write a java program for getting different colors through ArrayList interface and sort them
+using Collections.sort( ArrayListObj)]
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1bb.png)
