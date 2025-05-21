@@ -13,3 +13,7 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/commit/60f754c755f5188e
 ColorRemoveByIndex:[Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)]
 solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1bb.png)
+
+ColorSort:[Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()]
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1bd.png)
