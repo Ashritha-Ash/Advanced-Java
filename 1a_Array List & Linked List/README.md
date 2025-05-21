@@ -32,7 +32,7 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20Li
 
 LinkedListOfferLast:[Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
-solution->()
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cc.png)
 
 
 
