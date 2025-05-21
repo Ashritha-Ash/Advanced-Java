@@ -21,3 +21,7 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20Li
 ColorSubList:[Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index]
 solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1be.png)
+
+LinkedListElementPositions:[Write a Java program to iterate through all elements in a linked list starting at the
+specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))]
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1ca.png)
