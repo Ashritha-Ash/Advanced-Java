@@ -27,23 +27,23 @@ Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Op
 
 CapitalizeWords:Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
-Solution->()
+Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Operations_demo/3ca.png)
 
 TruncateString:Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()
-Solution->()
+Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Operations_demo/3cd.png)
 
 NumericCheck:Write a Java Program for Verifying if a string contains only numeric characters using user defined
 function isNumeric()
-Solution->()
+Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Operations_demo/3cb.png)
 
 RandomStringGenerator:Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
-Solution->()
+Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Operations_demo/3cc.png)
 
 WordCounter:Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
-Solution->()
+Solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/3_String%20Operations_demo/3ce.png)
 
 
 
