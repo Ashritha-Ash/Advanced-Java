@@ -6,4 +6,4 @@ CountryButtonDemo:[Develop a Swing program in Java to display a message “Srila
 Solution->(https://github.com/Ashritha-Ash/AdvancedJava/blob/main/4_Swing%20Programming/4b.png)
 
 ClockButtonDemo:[Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is pressed by implementing the event handling mechanism with addActionListener( ).]
-Solution->(https://github.com/Ashritha-Ash/AdvancedJava/blob/main/4_Swing%20Programming/4c.png)
+ Solution->(https://github.com/Ashritha-Ash/AdvancedJava/blob/main/4_Swing%20Programming/4c.png)
