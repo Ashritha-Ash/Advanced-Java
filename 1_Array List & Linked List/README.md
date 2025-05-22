@@ -33,7 +33,7 @@ solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20Li
 
 LinkedListIteratorExample:[Write a Java program to iterate a linked list in reverse order (using
 objlist.descendingIterator())]
-solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cb.png)(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cc.png)
+solution->(https://github.com/Ashritha-Ash/Advanced-Java/blob/main/1a_Array%20List%20%26%20Linked%20List/1cb.png)
 
 LinkedListOfferLast:[Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))]
