@@ -1,5 +1,7 @@
 
 
-6a.6_Servlet Programming/FactorialServlet.png
-6b.6_Servlet Programming/7a.png
-6c.6_Servlet Programming/Prime_Servlet.png
+6a.https://github.com/Ashritha-Ash/Advanced-Java/blob/main/6_Servlet%20Programming/FactorialServlet.png
+
+6b.https://github.com/Ashritha-Ash/Advanced-Java/blob/main/6_Servlet%20Programming/7a.png
+
+6c.https://github.com/Ashritha-Ash/Advanced-Java/blob/main/6_Servlet%20Programming/FactorialServlet.png
